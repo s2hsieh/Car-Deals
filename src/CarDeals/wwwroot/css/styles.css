@@ -1,0 +1,9 @@
+﻿.mdl-spinner{
+    width:500px;
+    height:500px;
+}
+
+#details-text{
+    display:inline-block;
+    padding-left:5em;
+}
