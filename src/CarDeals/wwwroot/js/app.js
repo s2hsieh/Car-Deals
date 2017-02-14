@@ -3,6 +3,6 @@
 $(function () {
     $('#details').dialog({
         autoOpen: false,
-        minWidth: 1000
+        minWidth: 800
     });
 });

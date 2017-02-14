@@ -7,3 +7,12 @@
     display:inline-block;
     padding-left:5em;
 }
+
+a{
+    text-decoration: none;
+}
+
+.card-label{
+    background-color:white;
+    opacity:0.6;
+}
